@@ -27,4 +27,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Noorjahan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Noorjahan228&show_icons=true&theme=radial)
+![Noorjahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noorjahan228&show_icons=true&theme=radical)
